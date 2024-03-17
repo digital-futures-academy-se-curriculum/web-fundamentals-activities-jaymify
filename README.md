@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=14339000&assignment_repo_type=AssignmentRepo)
 # Web Fundamentals Activities
 
 This repo contains the activities for the 5 sections covered in the Web Fundamentals course. Each section has its own folder with a markdown file that contains the instructions for the activity.
