@@ -1,0 +1,25 @@
+    <article>
+        <header>
+            <h2>Pathways</h2>
+        </header>
+        <section>
+            <h3>Cloud Engineering</h3>
+            <p>
+                Cloud is the foundation for the profound transformation in how businesses operate, compete, and create value for all their stakeholders. Our cloud programme provides the opportunity to become a certified Amazon Web Services (AWS) cloud engineer. 
+            </p>
+        </section>
+        <hr>
+        <section>
+            <h3>Data</h3>
+            <p>
+                Working with data is where state-of-the-art technology meets business decision-making. Digital Futures data specialists combine both the mathematical and the business significance of data when solving practical problems for our clients.
+            </p>
+        </section>
+        <hr>
+        <section>
+            <h3>Software Engineering</h3>
+            <p>
+                Software engineering is about more than just code. To help solve real-world business problems for our industry partners, Digital Futures software engineers examine and determine users' needs, develop, design, build and test end-user software. 
+            </p>
+        </section>
+    </article>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Register Interest</title>
+    <style>
+        ul {
+            list-style: none;
+        }
+
+        li {
+            margin: 5px 0;
+        }
+
+        label {
+            display: inline-block;
+            width: 100px;
+            text-align: right;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <img src="images/logo.png" alt="Digital Futures Logo" width="200px">
+        <h1 style="background-image:url(images/team.jpeg); padding: 4em 1em; color: white; background-size: cover">
+            Register Interest in a Pathway</h1>
+    </header>
+
+    <!-- insert form here -->
+    <form action="">
+        <fieldset>
+            <legend>Your Details</legend>
+            <ul>
+                <li><label for="firstname">First Name:</label><input type="text" name="firstname" autofocus></li>
+                <li><label for="surname">Last Name:</label><input type="text" name="surname"></li>
+                <li><label for="email">Email:</label><input type="email" placeholder="you@domain.com" required></li>
+                <li><label for="phone">Phone</label><input type="tel" name="phone" id="phone"
+                        placeholder="E.g. +447500000000" required></li>
+            </ul>
+        </fieldset>
+        <fieldset>
+            <legend>Pathway Details</legend>
+            <ul>
+                <li>
+                    <label for="pathway">Pathway:</label>
+                    <select name="pathway">
+                        <option disabled selected>Please choose a Pathway:</option>
+                        <option value="cloud">Cloud Engineering</option>
+                        <option value="data">Data Specialist</option>
+                        <option value="software">Software Engineering</option>
+                    </select>
+                </li>
+                <li>
+                    <label for="date">Date:</label>
+                    <input type="date" name="date">
+                </li>
+            </ul>
+        </fieldset>
+        <fieldset>
+            <input type="submit" value="Submit">
+        </fieldset>
+    </form>
+</body>
+
+</html>
